@@ -1,5 +1,6 @@
 [
   {
+    "main-group": "이어폰",
     "category": "유선이어폰",
     "name": "ATH-CKD3Li",
     "price": ": 43,000",
@@ -7,6 +8,7 @@
     "text": "9.8mm 다이나믹 드라이버 선명한 고해상도 iOS전용 이어폰"
   },
   {
+    "main-group": "이어폰",
     "category": "유선이어폰",
     "name": "ATH-CKD3C",
     "price": ": 39,000",
@@ -14,6 +16,7 @@
     "text": "9.8mm 다이나믹 드라이버 선명한 고해상도 C타입 이어"
   },
   {
+    "main-group": "이어폰",
     "category": "유선이어폰",
     "name": "ATH-CK323i",
     "price": ": 24,200",
@@ -21,6 +24,7 @@
     "text": "줄꼬임 방지 타원형 케이블 스마트폰 호환 인이어 이어폰"
   },
   {
+    "main-group": "이어폰",
     "category": "무선이어폰",
     "name": "ATH-SQ1TW",
     "price": ": 79,000",
@@ -28,6 +32,7 @@
     "text": "유니크한 초경량 디자인, 완전 무선 블루투스 이어폰"
   },
   {
+    "main-group": "이어폰",
     "category": "무선이어폰",
     "name": "ATH-CKS5TW",
     "price": ": 99,000",
@@ -35,6 +40,7 @@
     "text": "SOLID BASS 시리즈, 강력한 중저음의 완전 무선 이어폰"
   },
   {
+    "main-group": "이어폰",
     "category": "무선이어폰",
     "name": "ATH-SPORT7TW",
     "price": ": 99,000",
@@ -42,6 +48,7 @@
     "text": "[SONIC SPORT] 생활방수 스포츠형 무선 블루투스 이어폰"
   },
   {
+    "main-group": "턴테이블/스피커",
     "category": "스피커",
     "name": "AT-SP95",
     "price": ": 39,000",
@@ -49,6 +56,7 @@
     "text": "52mm 유닛 파워풀한 고해상도 다용도 스피커"
   },
   {
+    "main-group": "마이크",
     "category": "마이크",
     "name": "ATR3350xiS",
     "price": ": 27,900",
@@ -56,6 +64,7 @@
     "text": "고품질의 감도를 가진 전방향성 콘덴서 핀마이크"
   },
   {
+    "main-group": "마이크",
     "category": "마이크",
     "name": "ATR2500USB",
     "price": ": 129,000",
@@ -63,6 +72,7 @@
     "text": "단일지향성 콘덴서 마이크"
   },
   {
+    "main-group": "마이크",
     "category": "마이크",
     "name": "AT2035",
     "price": ": 239,000",
@@ -70,6 +80,7 @@
     "text": "단일지향성 콘덴서 마이크"
   },
   {
+    "main-group": "마이크",
     "category": "마이크",
     "name": "ATGM1-USB",
     "price": ": 39,900",
@@ -77,6 +88,7 @@
     "text": "완벽한 게임을 위한 구즈넥 USB 게이밍 마이크"
   },
   {
+    "main-group": "마이크",
     "category": "마이크",
     "name": "AT9934USB",
     "price": ": 99,000",
@@ -84,6 +96,7 @@
     "text": "레코딩/유튜브/화상회의, 단일 지향성 콘덴서 마이크"
   },
   {
+    "main-group": "헤드폰",
     "category": "무선헤드폰",
     "name": "ATH-M50xBT2",
     "price": ": 229,000",
@@ -91,6 +104,7 @@
     "text": "당신을 위한 새로운 버전 블루투스 헤드폰 대표 모델"
   },
   {
+    "main-group": "헤드폰",
     "category": "무선헤드폰",
     "name": "ATH-M20xB",
     "price": ": 79,000",
@@ -98,6 +112,7 @@
     "text": "60주년 스페셜 이벤트 블루투스 헤드폰 대표 모델"
   },
   {
+    "main-group": "헤드폰",
     "category": "무선헤드폰",
     "name": "ATH-M50xBT2 MO",
     "price": ": 229,000",
@@ -105,6 +120,7 @@
     "text": "60주년 스페셜 이벤트 블루투스 헤드폰 대표 모델"
   },
   {
+    "main-group": "헤드폰",
     "category": "무선헤드폰",
     "name": "ATH-S220BT",
     "price": ": 59,000",
@@ -112,6 +128,7 @@
     "text": "출시 첫 할인 행사! 저지연 모드와 멀티페어링 탑재"
   },
   {
+    "main-group": "헤드폰",
     "category": "무선헤드폰",
     "name": "ATH-ANC700BT",
     "price": ": 169,000",
@@ -119,6 +136,7 @@
     "text": "[ANC 시리즈] 노이즈캔슬링 무선 블루투스 헤드폰"
   },
   {
+    "main-group": "헤드폰",
     "category": "무선헤드폰",
     "name": "ATH-AR3BT",
     "price": ": 99,000",
@@ -126,6 +144,7 @@
     "text": "사운드 리얼리티 시리즈, 고해상도 온이어 무선 헤드폰"
   },
   {
+    "main-group": "헤드폰",
     "category": "유선헤드폰",
     "name": "ATH-AR1iS",
     "price": ": 39,000",
@@ -133,6 +152,7 @@
     "text": "사운드 리얼리티 시리즈, 온이어 고해상도 경량 헤드폰"
   },
   {
+    "main-group": "헤드폰",
     "category": "유선헤드폰",
     "name": "ATH-SR5",
     "price": ": 119,000",
@@ -140,6 +160,7 @@
     "text": "사운드 리얼리티 시리즈, 온이어 고해상도 경량 헤드폰"
   },
   {
+    "main-group": "헤드폰",
     "category": "유선헤드폰",
     "name": "ATH-ES770H",
     "price": ": 259,000",
@@ -147,6 +168,7 @@
     "text": "당신을 위한 고음질의 하이 퍼포먼스 헤드폰!"
   },
   {
+    "main-group": "헤드폰",
     "category": "유선헤드폰",
     "name": "ATH-ESW990H",
     "price": ": 449,000",
@@ -154,6 +176,7 @@
     "text": "[이어수트 시리즈] 하이레졸루션 원목 하우징 헤드폰"
   },
   {
+    "main-group": "헤드폰",
     "category": "유선헤드폰",
     "name": "ATH-FT50iS",
     "price": ": 59,400",
@@ -161,6 +184,7 @@
     "text": "가볍고 강렬한 퍼포먼스를 즐길 수 있는 헤드폰!"
   },
   {
+    "main-group": "헤드폰",
     "category": "유선헤드폰",
     "name": "ATH-S300",
     "price": ": 47,300",
@@ -168,6 +192,7 @@
     "text": "저음강화 다이나믹 드라이버 온이어 밀폐형 헤드폰"
   },
   {
+    "main-group": "턴테이블/스피커",
     "category": "턴테이블",
     "name": "AT-LP7",
     "price": ": 1,290,000",
@@ -175,6 +200,7 @@
     "text": "[원음에 가까운 음원] 완전 수동 벨트 드라이브 턴테이블"
   },
   {
+    "main-group": "턴테이블/스피커",
     "category": "턴테이블",
     "name": "AT-LP60XBT WW",
     "price": ": 329,000",
@@ -182,6 +208,7 @@
     "text": "완전 자동 벨트 드라이브 무선 턴테이블"
   },
   {
+    "main-group": "턴테이블/스피커",
     "category": "턴테이블",
     "name": "AT-LP60XHP",
     "price": ": 299,000",
@@ -189,6 +216,7 @@
     "text": "입문형 완전 자동 벨트 드라이브 턴테이블+헤드폰"
   },
   {
+    "main-group": "턴테이블/스피커",
     "category": "턴테이블",
     "name": "AT-LP120XUSB",
     "price": ": 549,000",
@@ -196,6 +224,7 @@
     "text": "음원을 디지털 음원으로 변환가능한 턴테이블!"
   },
   {
+    "main-group": "턴테이블/스피커",
     "category": "턴테이블",
     "name": "AT-LP60X",
     "price": ": 219,000",
@@ -203,6 +232,7 @@
     "text": "(입문용 추천!) 완전 자동 벨트 드라이브 턴테이블"
   },
   {
+    "main-group": "턴테이블/스피커",
     "category": "턴테이블",
     "name": "AT-LPW40WN",
     "price": ": 499,000",
